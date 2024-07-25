@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Anirudh Naginayani Cheruvu
 - 👀 I’m interested in Coding
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Data Structures 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me anirudh05nc@gmail.com
 - 😄 Pronouns: ...
